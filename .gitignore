@@ -1,9 +1,8 @@
 /db-data
 /node/node_modules
-/node/.cpcache/
+/node/.cpcache
 /node/.rebel_readline_history
-/node/log/
-/node/target/
+/node/log
+/node/target
 /node/*.js
-/node/develop/
-/node/release/
+/node/build

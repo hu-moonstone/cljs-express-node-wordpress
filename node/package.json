@@ -1,11 +1,7 @@
 {
-  "scripts": {
-    "start": "node app-dev.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "dependencies": {
     "@cljs-oss/module-deps": "^1.1.1",
     "express": "^4.16.2",
-    "ws": "^3.2.0"
+    "ws": "^6.2.0"
   }
 }

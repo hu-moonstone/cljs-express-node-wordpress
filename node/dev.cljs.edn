@@ -1,0 +1,7 @@
+{:main hello.core
+:output-to "build/main.js"
+:output-dir "build"
+:target :nodejs
+:npm-deps {:express "4.16.2"
+            :ws "6.2.0"}
+:install-deps true}
